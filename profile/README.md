@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wildsec/.github/main/profile/assets/banner.png" alt="wildsec" width="600">
+  <img src="https://raw.githubusercontent.com/wildsec/.github/main/profile/assets/banner.png" alt="wildsec">
 </p>
 
 # wildsec
