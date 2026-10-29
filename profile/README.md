@@ -8,5 +8,5 @@ Cyber security and AI security workspace — public knowledge base, plus private
 
 ## Repositories
 
-- [**Knowledge**](https://github.com/wildsec/Knowledge) — public cyber security knowledge base (notes, cheatsheets, write-ups)
+- [**Cyber-Security**](https://github.com/wildsec/Cyber-Security) — public cyber security knowledge base (notes, cheatsheets, write-ups)
 - and confidential stuff..
